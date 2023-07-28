@@ -67,3 +67,8 @@ ghc -o 3 3.hs
 Em Haskell, as classes são usadas para definir tipos polimórficos, permitindo que vários tipos diferentes implementem funções com a mesma assinatura. As classes são uma parte importante do sistema de tipos da linguagem e são usadas para definir tipos com comportamentos específicos.
 
 As classes em Haskell são análogas às interfaces em algumas outras linguagens de programação, mas têm algumas diferenças importantes. Vou explicar como criar e usar classes em Haskell usando um exemplo simples.
+
+```bash
+ghc -o 4 4.hs 
+./4
+```
